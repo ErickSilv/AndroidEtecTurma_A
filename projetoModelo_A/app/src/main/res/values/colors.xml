@@ -8,5 +8,6 @@
 
 
     <!--Minhas Cores-->
-    <color name="colorTelaSplash">#DDCE023A</color>
+    <color name="colorTelaSplash">#AB000000</color>
+    <color name="colorTelaLock">#FFFFFF</color>
 </resources>
