@@ -11,7 +11,7 @@ import android.widget.EditText;
 import android.widget.Toast;
 
 public class LoginActivity extends AppCompatActivity {
-//Declaração de
+//Declaração de variavel
     private Button btnEnviar;
     private Button btnCancelar;
     private EditText edtUsuario;
